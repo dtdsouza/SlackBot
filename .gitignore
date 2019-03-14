@@ -1,3 +1,5 @@
 meuenv
 
 node_modules/
+
+.gitignore
